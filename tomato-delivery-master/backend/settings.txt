@@ -1,0 +1,4 @@
+root:  C:\Users\vasee\OneDrive\Documents\tomato-delivery-master\tomato-delivery-master\backend 
+path: C:\Program Files\nodejs 
+arch: 64 
+proxy: none
