@@ -1,3 +1,4 @@
 base = "frontend"
-publish = "frontend/build"
-command = "npm install && npm run dev"
+functions = "backend/functions"
+publish = "frontend/dist"
+command = "npm run build"
